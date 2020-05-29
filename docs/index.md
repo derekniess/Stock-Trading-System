@@ -14,7 +14,7 @@ In a real-world trading environment, there are a handful of independent systems 
 ***
 ## High-Level Architecture
 
-![Architecture](assets/images/TradingMachineArchitecture.jpg)
+![Architecture](img/TradingMachineArchitecture.jpg)
 
 ***
 
@@ -43,13 +43,13 @@ The following are the set of implemented applications that run concurrently in o
 
 UI for filled and rejected orders along with statistics:
 
-![Orders](assets/images/TradeMonitorUI.jpg)
+![Orders](img/TradeMonitorUI.jpg)
 
 * * * 
 
 UI for on-going market data:
 
-![MarketData](assets/images/MarketDataUI.jpg)
+![MarketData](img/MarketDataUI.jpg)
 
 ***
 
